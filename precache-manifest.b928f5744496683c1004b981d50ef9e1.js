@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baea648be18dbda31ce562bb8ad95945",
+    "revision": "3dfb86341ddbd9f8e40e336f4152633e",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "51cd6e97502f0ea83ec9",
+    "revision": "24752972919c897555ca",
     "url": "/static/css/main.207db4cf.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.c1f93bc1.chunk.js"
   },
   {
-    "revision": "51cd6e97502f0ea83ec9",
-    "url": "/static/js/main.cbbe29b0.chunk.js"
+    "revision": "24752972919c897555ca",
+    "url": "/static/js/main.e5751c35.chunk.js"
   },
   {
     "revision": "5e7df6a9cdffd9b856d1",
@@ -48,12 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
-  },
-  {
-    "revision": "9860fcd3fdb76b1390b6bf7625f11431",
-    "url": "/static/media/brownLogo.9860fcd3.png"
+    "revision": "5b678e43f4ecfab1d9d4976683c9ba9d",
+    "url": "/static/media/brownLogo.5b678e43.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -68,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "1aef2f44471614b8f49d518a2046db8e",
+    "url": "/static/media/edayLogo.1aef2f44.png"
+  },
+  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
@@ -80,6 +80,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
+    "revision": "ab608e6da919cbdf105d625dc7ecddfd",
+    "url": "/static/media/purdueLogo.ab608e6d.png"
+  },
+  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
@@ -90,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/static/media/skill.34409398.svg"
-  },
-  {
-    "revision": "3b758ef56d398145542e137daa28e392",
-    "url": "/static/media/stanfordLogo.3b758ef5.png"
   },
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
