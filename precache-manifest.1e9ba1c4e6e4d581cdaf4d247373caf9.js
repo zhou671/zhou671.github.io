@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f60428a722b900724d6fcb670cc4fd1b",
+    "revision": "baea648be18dbda31ce562bb8ad95945",
     "url": "/index.html"
   },
   {
-    "revision": "d9a6da5a3503c36741c2",
+    "revision": "0f340e04347ae1176f15",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
-    "revision": "9bb698218ddb8d495641",
+    "revision": "9051161e04abbfd2a0f5",
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "73216b75c547fa07ad0b",
+    "revision": "51cd6e97502f0ea83ec9",
     "url": "/static/css/main.207db4cf.chunk.css"
   },
   {
-    "revision": "d9546e351573d98eaaeb",
-    "url": "/static/js/2.cb11a5af.chunk.js"
+    "revision": "2b3af9c4138af69118bf",
+    "url": "/static/js/2.2d094916.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.cb11a5af.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2d094916.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9a6da5a3503c36741c2",
-    "url": "/static/js/3.5f934bdd.chunk.js"
+    "revision": "0f340e04347ae1176f15",
+    "url": "/static/js/3.2289ff93.chunk.js"
   },
   {
-    "revision": "9bb698218ddb8d495641",
-    "url": "/static/js/4.88f2b2ea.chunk.js"
+    "revision": "9051161e04abbfd2a0f5",
+    "url": "/static/js/4.c1f93bc1.chunk.js"
   },
   {
-    "revision": "73216b75c547fa07ad0b",
-    "url": "/static/js/main.e8ecb5fe.chunk.js"
+    "revision": "51cd6e97502f0ea83ec9",
+    "url": "/static/js/main.cbbe29b0.chunk.js"
   },
   {
-    "revision": "d505a79c4cb4f880f6a6",
-    "url": "/static/js/runtime-main.104716e9.js"
+    "revision": "5e7df6a9cdffd9b856d1",
+    "url": "/static/js/runtime-main.bad94f67.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
+    "revision": "9860fcd3fdb76b1390b6bf7625f11431",
+    "url": "/static/media/brownLogo.9860fcd3.png"
+  },
+  {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
@@ -64,16 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
-  },
-  {
-    "revision": "35ef5e915631be2c31ccdff55b53db29",
-    "url": "/static/media/harvardLogo.35ef5e91.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
@@ -86,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
