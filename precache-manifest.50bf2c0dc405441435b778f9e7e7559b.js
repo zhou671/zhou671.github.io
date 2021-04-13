@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8454e6a5a6b29972529b5afc398cc47a",
+    "revision": "911aa97eb40dea89586865a569472a72",
     "url": "/index.html"
   },
   {
-    "revision": "7b1718045ed3f415be2c",
+    "revision": "82974a41404beb805fc2",
     "url": "/static/css/3.00373544.chunk.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "f0e75626868a975d1c3a",
+    "revision": "3e9003ebce87d1debcc5",
     "url": "/static/css/main.207db4cf.chunk.css"
   },
   {
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.2d094916.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b1718045ed3f415be2c",
-    "url": "/static/js/3.868f862f.chunk.js"
+    "revision": "82974a41404beb805fc2",
+    "url": "/static/js/3.80847874.chunk.js"
   },
   {
     "revision": "9051161e04abbfd2a0f5",
     "url": "/static/js/4.c1f93bc1.chunk.js"
   },
   {
-    "revision": "f0e75626868a975d1c3a",
-    "url": "/static/js/main.1f52edfc.chunk.js"
+    "revision": "3e9003ebce87d1debcc5",
+    "url": "/static/js/main.9071d4a8.chunk.js"
   },
   {
-    "revision": "f5991342587b4f143182",
-    "url": "/static/js/runtime-main.4ee36199.js"
+    "revision": "4307c7b31586b8721cab",
+    "url": "/static/js/runtime-main.6bd7528f.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -76,8 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
+    "revision": "43beb7a66a87626f336f3bd5b0d1b79f",
+    "url": "/static/media/objectsimulation.43beb7a6.png"
+  },
+  {
+    "revision": "8f0bd41df762b9653d220fc94e356f0c",
+    "url": "/static/media/pathtracer.8f0bd41d.png"
   },
   {
     "revision": "ab608e6da919cbdf105d625dc7ecddfd",
@@ -86,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
